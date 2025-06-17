@@ -14,6 +14,6 @@ This project demonstrates hands-on experience using Splunk for log analysis and 
 
 - Splunk (Free Tier or Enterprise Trial)
 - OpenVPN log data
-- Local virtual environment (VirtualBox or native host machine)
-- 
+- Local virtual environment (Try hack me VirtualBox)
+  
 ## 📷 Screenshots
