@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This project demonstrates hands-on experience using Splunk for log analysis and security event visualization by analyzing OpenVPN logs.
+This project demonstrates hands-on experience using Splunk for log analysis, threat detection, and security event visualization. By ingesting and analyzing OpenVPN logs. The goal was to gain practical experience with SIEM (Security Information and Event Management) tools and understand how centralized logging can enhance incident response and network visibility in a cybersecurity environment.
 
 
 <h2> 🔧 Project Overview</h2>
